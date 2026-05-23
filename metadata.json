@@ -1,0 +1,6 @@
+{
+  "name": "Refurbished Phones Landing Page",
+  "description": "A high-converting, premium certified-refurbished phones e-commerce landing page with an interactive grading guide, product matrix, objection-busting FAQs, quick cart, and a developer architecture visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
